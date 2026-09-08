@@ -4,7 +4,6 @@ pannellum.viewer('panorama', {
 });
 
 pannellum.viewer('panorama2', {
-    // "hotSpotDebug": true,
     "default": {
         "firstScene": "outside",
         "author": "P Diddy",
